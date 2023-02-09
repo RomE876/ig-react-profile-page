@@ -1,0 +1,29 @@
+.profilePic {
+    background-color: white;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+}
+
+button {
+    border-color: gray;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.profile-container {
+    display: flex;
+    justify-content: center;
+    padding: 5px 20px;
+    width: 100%;
+}
+
+.profile-info {
+    align-content: flex-start;
+}
+
+.fTypes {
+    border: none;
+    padding: 10px 10px;
+}

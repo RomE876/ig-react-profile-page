@@ -1,0 +1,12 @@
+.wall {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15%;
+}
+
+.wallPic {
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+}
